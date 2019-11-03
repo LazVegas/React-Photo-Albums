@@ -20,3 +20,88 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+/* ---------- Start: MyAlbum.js ---------- */
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.myAlbumsContainer {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: blue;
+}
+
+.albumNameContainer {
+  display: flex;
+  flex-wrap: wrap; 
+  background-color: green;
+  text-align: center;
+}
+
+.album {
+  width: 400px;
+  background-color: pink;
+}
+
+#albumCover {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  margin: 20px;
+  background-color: purple;
+}
+
+/* ---------- End: MyAlbum.js ---------- */
+
+/* ---------- Start: AlbumName.js ---------- */
+
+.albumNameContainer {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: blue;
+}
+
+.picNameContainer{
+  display: flex;
+  flex-wrap: wrap; 
+  background-color: green;
+  text-align: center;
+}
+
+.picName{
+  width: 400px;
+  background-color: pink;
+}
+
+#picCover {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  margin: 20px;
+  background-color: purple;
+}
+
+/* ---------- End: AlbumName.js ---------- */
+
+/* ---------- Start: PicName.js ---------- */
+
+.pic3 {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+}
+
+.pic4 {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+}
+
+.photo {
+  background-color: white;
+}
+
+/* ---------- End: PicName.js ---------- */

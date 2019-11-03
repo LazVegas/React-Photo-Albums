@@ -1,12 +1,252 @@
 {
-  "users": [
+  "albums": [
     {
       "id": 1,
-      "name": "Ryan"
+      "aName": "Album 1",
+      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
-      "name": "Mike",
-      "id": 2
+      "id": 2,
+      "aName": "Album 2",
+      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 3,
+      "aName": "Album 3",
+      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 4,
+      "aName": "Album 4",
+      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 5,
+      "aName": "Album 5",
+      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    },
+    {
+      "id": 6,
+      "aName": "Album 6",
+      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "photo": "Album 1 Photo 1",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "photo": "Album 1 Photo 2",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 3,
+      "photo": "Album 1 Photo 3",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 4,
+      "photo": "Album 1 Photo 4",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 5,
+      "photo": "Album 1 Photo 5",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 6,
+      "pohoto": "Album 1 Photo 6",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 1
+    },
+    {
+      "id": 7,
+      "photo": "Album 2 Photo 1",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 8,
+      "photo": "Album 2 Photo 2",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 9,
+      "photo": "Album 2 Photo 3",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 10,
+      "photo": "Album 2 Photo 4",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 11,
+      "photo": "Album 2 Photo 5",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 12,
+      "pohoto": "Album 2 Photo 6",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 2
+    },
+    {
+      "id": 13,
+      "photo": "Album 3 Photo 1",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 14,
+      "photo": "Album 3 Photo 2",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 15,
+      "photo": "Album 3 Photo 3",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 16,
+      "photo": "Album 3 Photo 4",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 17,
+      "photo": "Album 3 Photo 5",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 18,
+      "pohoto": "Album 3 Photo 6",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 3
+    },
+    {
+      "id": 19,
+      "photo": "Album 4 Photo 1",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 20,
+      "photo": "Album 4 Photo 2",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 21,
+      "photo": "Album 4 Photo 3",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 22,
+      "photo": "Album 4 Photo 4",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 23,
+      "photo": "Album 4 Photo 5",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 24,
+      "pohoto": "Album 4 Photo 6",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 4
+    },
+    {
+      "id": 25,
+      "photo": "Album 5 Photo 1",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 26,
+      "photo": "Album 5 Photo 2",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 27,
+      "photo": "Album 5 Photo 3",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 28,
+      "photo": "Album 5 Photo 4",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 29,
+      "photo": "Album 5 Photo 5",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 30,
+      "pohoto": "Album 5 Photo 6",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 5
+    },
+    {
+      "id": 31,
+      "photo": "Album 6 Photo 1",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 32,
+      "photo": "Album 6 Photo 2",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 33,
+      "photo": "Album 6 Photo 3",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 34,
+      "photo": "Album 6 Photo 4",
+      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 35,
+      "photo": "Album 6 Photo 5",
+      "location": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
+    },
+    {
+      "id": 36,
+      "pohoto": "Album 6 Photo 6",
+      "location": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "albumId": 6
     }
   ]
 }
