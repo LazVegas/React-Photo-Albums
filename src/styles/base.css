@@ -1,5 +1,9 @@
 html {
   box-sizing: border-box;
+  background-image: url("https://wallpapertag.com/wallpaper/full/4/b/1/113963-amazing-video-games-wallpaper-1920x1200-hd-for-mobile.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 *,
 *::before,
@@ -21,67 +25,100 @@ code {
     monospace;
 }
 
-/* ---------- Start: MyAlbum.js ---------- */
-
+/* ---------- Start: All pages ---------- */
 h1 {
-  text-align: center;
-  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1100px;
+  height: 70px;
+  margin: 0px auto;
+  margin-top: 10px;
+  padding: 5px;
+  font-family: 'Archivo Black', sans-serif;
+  font-family: 'Istok Web', sans-serif;
+  font-size: 40px;
+  background-image: url("http://images6.fanpop.com/image/photos/38600000/Work-Hard-Play-Harder-advice-38676782-1600-900.jpg")
 }
+
+#wide {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+/* ---------- End: All pages ---------- */
+
+/* ---------- Start: MyAlbum.js ---------- */
 
 .myAlbumsContainer {
   width: 1200px;
   margin: 0 auto;
-  background-color: blue;
 }
 
 .albumNameContainer {
   display: flex;
   flex-wrap: wrap; 
-  background-color: green;
   text-align: center;
 }
 
 .album {
   width: 400px;
-  background-color: pink;
+}
+
+p#MyAlbumTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  font-size: 20px;
+  width: 240px;
+  height: 30px;
+  background-image: linear-gradient(yellow, red);
+  border-radius: 30px;
+  font-weight: bold;
 }
 
 #albumCover {
   width: 300px;
-  height: 300px;
-  border: 1px solid black;
-  margin: 20px;
-  background-color: purple;
+  border: 7px solid darkblue;
 }
 
 /* ---------- End: MyAlbum.js ---------- */
 
 /* ---------- Start: AlbumName.js ---------- */
 
-.albumNameContainer {
+.albumNameWrapper {
   width: 1200px;
   margin: 0 auto;
-  background-color: blue;
 }
 
-.picNameContainer{
+.picNameWrapper{
   display: flex;
   flex-wrap: wrap; 
-  background-color: green;
   text-align: center;
 }
 
 .picName{
   width: 400px;
-  background-color: pink;
 }
+
+#AlbumNameTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  font-size: 20px;
+  width: 240px;
+  height: 30px;
+  background-image: linear-gradient(yellow, red);
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+
 
 #picCover {
   width: 300px;
-  height: 300px;
-  border: 1px solid black;
-  margin: 20px;
-  background-color: purple;
+  border: 7px solid darkblue;
 }
 
 /* ---------- End: AlbumName.js ---------- */

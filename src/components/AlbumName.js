@@ -16,13 +16,13 @@ function AlbumName (props) {
     }, [])
 
     return (
-        <div className="albumNameContainer">
+        <div className="albumNameWrapper">
             <h1>{albumName}</h1>
-            <main className="picNameContainer">
+            <main className="picNameWrapper">
                 {picture.map(x => (
                   <Link to={`/albumName/${x.id}`}>
                     <div className="picName">
-                       <p>{x.photo}</p>                       
+                       <p id="AlbumNameTitle">{x.photo}</p>                       
                       <img id="picCover" src={x.location} />
                     </div>
                   </Link>

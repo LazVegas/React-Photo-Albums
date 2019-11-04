@@ -2,250 +2,250 @@
   "albums": [
     {
       "id": 1,
-      "aName": "Album 1",
-      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "aName": "SkyRim",
+      "coverPhoto":"https://i0.wp.com/feelreal.com/wp-content/uploads/2019/03/Skyrim-VR-01-1-e1552558335155.jpg?fit=1080%2C1080&ssl=1"
     },
     {
       "id": 2,
-      "aName": "Album 2",
-      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "aName": "Fortnite",
+      "coverPhoto":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_114.png?dw4VDku9Ey87QOt9NRQyFyR3XBq4xkex&itok=1IYAj5wH"
     },
     {
       "id": 3,
-      "aName": "Album 3",
-      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "aName": "Halo",
+      "coverPhoto":"https://cdn.worldvectorlogo.com/logos/halo.svg"
     },
     {
       "id": 4,
-      "aName": "Album 4",
-      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "aName": "Final Fantasy",
+      "coverPhoto":"http://coin-drop.com/wp-content/uploads/final-fantasy-logo.png"
     },
     {
       "id": 5,
-      "aName": "Album 5",
-      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "aName": "Super Mario",
+      "coverPhoto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSZ7GnQx_JxFlq680PLbEgwscZZm6tM89w5OeP58lNbMjijSr&s"
     },
     {
       "id": 6,
-      "aName": "Album 6",
-      "coverPhoto":"https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "aName": "Zelda",
+      "coverPhoto":"https://s.pngix.com/pngfile/s/219-2192538_leave-the-puzzles-to-zelda-legend-of-zelda.png"
     }
   ],
   "photos": [
     {
       "id": 1,
-      "photo": "Album 1 Photo 1",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Dragon Slayer",
+      "location": "https://p2.trrsf.com/image/fget/cf/1200/1200/filters:quality(85)/images.terra.com/2015/12/15/foto-5gameshalo-510-melhores-games-do-xbox-360.jpg",
       "albumId": 1
     },
     {
       "id": 2,
-      "photo": "Album 1 Photo 2",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Ready for Battle",
+      "location": "https://i.pinimg.com/originals/ba/d0/0d/bad00dddb97d3058c9ce43b158f2cd82.png",
       "albumId": 1
     },
     {
       "id": 3,
-      "photo": "Album 1 Photo 3",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Crispy",
+      "location": "https://i.pinimg.com/originals/51/61/d4/5161d4e331b9acc430ea3ace0a3d5466.jpg",
       "albumId": 1
     },
     {
       "id": 4,
-      "photo": "Album 1 Photo 4",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "The Aftermath",
+      "location": "https://i.pinimg.com/originals/3b/46/60/3b4660710bf3ea70b7df8cf90302a19d.jpg",
       "albumId": 1
     },
     {
       "id": 5,
-      "photo": "Album 1 Photo 5",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Elphira Uland",
+      "location": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17c7389d-d73c-4b3e-a300-8c9be921c306/d6hzzyn-80f7a08c-941e-4794-967d-18d4211c2530.jpg/v1/fill/w_894,h_894,q_70,strp/elphira_uland__bosmer_by_yh_sanitys_eclipse_d6hzzyn-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzE3YzczODlkLWQ3M2MtNGIzZS1hMzAwLThjOWJlOTIxYzMwNlwvZDZoenp5bi04MGY3YTA4Yy05NDFlLTQ3OTQtOTY3ZC0xOGQ0MjExYzI1MzAuanBnIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.X1gQ3mQxpqAD74eUg77--AFYkN9qfAul3nlVzs6YQe8",
       "albumId": 1
     },
     {
       "id": 6,
-      "pohoto": "Album 1 Photo 6",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Markarth",
+      "location": "https://i.pinimg.com/originals/cd/79/e1/cd79e125b1b8ee1eb8fc6c2bc753fa68.jpg",
       "albumId": 1
     },
     {
       "id": 7,
-      "photo": "Album 2 Photo 1",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Locked and Loaded",
+      "location": "https://cdn.vox-cdn.com/thumbor/Z9w-vFGK_PcQyTLnHRZwsz6jFtA=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9987839/fn_battle_royale_1268x717_cf9fa8a783c249aa8d6929126e29f5f190620357.jpg",
       "albumId": 2
     },
     {
       "id": 8,
-      "photo": "Album 2 Photo 2",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Battle Royale",
+      "location": "https://cnet2.cbsistatic.com/img/gVr6l4n5ewLZAdLVtllcCViRKDU=/1092x0/2019/08/16/de99e7cf-2ee0-4ed4-8b4a-6dab649ddca9/fortnite-map-week1.jpg",
       "albumId": 2
     },
     {
       "id": 9,
-      "photo": "Album 2 Photo 3",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Incoming",
+      "location": "https://estnn.com/wp-content/uploads/2018/07/Fortnite-Cover-Photo-300x300.jpg",
       "albumId": 2
     },
     {
       "id": 10,
-      "photo": "Album 2 Photo 4",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Easy Pickens",
+      "location": "https://cdn.vox-cdn.com/thumbor/xsduBcWF98XCBVeUmlFqEhpIn0I=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/10683711/Fortnite_Battle_Royale_guide.jpg",
       "albumId": 2
     },
     {
       "id": 11,
-      "photo": "Album 2 Photo 5",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Touch Down",
+      "location": "https://cdn.vox-cdn.com/thumbor/uCuvu7XLFmIkbdWndmUN5hI9rbE=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/11676483/Fortnite_2Fblog_2Ffortnite_summer_skirmish_2FBR05_News_Header_16_9_SummerSkirmish_1920x1080_613d1ea11c543c14eb08f9cc6b3945feb134ecc6.jpg",
       "albumId": 2
     },
     {
       "id": 12,
-      "pohoto": "Album 2 Photo 6",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "I'm Beautiful",
+      "location": "https://cdn.vox-cdn.com/thumbor/zlN0x-sid6qthHY4ghHlCPcBpc8=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/16219062/ply_fortnite_skins_02.jpg",
       "albumId": 2
     },
     {
       "id": 13,
-      "photo": "Album 3 Photo 1",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Suited and Booted",
+      "location": "https://assets.vg247.com/current//2019/05/halo_mcc_crop.jpg",
       "albumId": 3
     },
     {
       "id": 14,
-      "photo": "Album 3 Photo 2",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Halo Wars 2",
+      "location": "https://gamespot1.cbsistatic.com/uploads/scale_medium/1197/11970954/3080793-91gqr89ilil._sl1500_.jpg",
       "albumId": 3
     },
     {
       "id": 15,
-      "photo": "Album 3 Photo 3",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Full Assault",
+      "location": "https://i.pinimg.com/originals/35/cb/e5/35cbe5d10ddab1684cf9212496846fe2.jpg",
       "albumId": 3
     },
     {
       "id": 16,
-      "photo": "Album 3 Photo 4",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Death Before Dishonor",
+      "location": "https://i.redd.it/wu6wspsuhv811.jpg",
       "albumId": 3
     },
     {
       "id": 17,
-      "photo": "Album 3 Photo 5",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "King of the Hill",
+      "location": "https://teambeyond.net/wp-content/uploads/2016/06/Halo-Wars-2-Cover.jpg",
       "albumId": 3
     },
     {
       "id": 18,
-      "pohoto": "Album 3 Photo 6",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Prey Stalker",
+      "location": "https://www.fightersgeneration.com/nz7/game/kis3/arbiter-halo-fal.jpg",
       "albumId": 3
     },
     {
       "id": 19,
-      "photo": "Album 4 Photo 1",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "FF II",
+      "location": "https://i.imgur.com/Pjcxs0g.png",
       "albumId": 4
     },
     {
       "id": 20,
-      "photo": "Album 4 Photo 2",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "FF IV",
+      "location": "https://images-eu.ssl-images-amazon.com/images/I/715j6gybzqL.png",
       "albumId": 4
     },
     {
       "id": 21,
-      "photo": "Album 4 Photo 3",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "FF VI",
+      "location": "https://images-eu.ssl-images-amazon.com/images/I/41atFdxpv7L.png",
       "albumId": 4
     },
     {
       "id": 22,
-      "photo": "Album 4 Photo 4",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "FF X",
+      "location": "https://m.media-amazon.com/images/I/71d++FPhweL._SS500_.jpg",
       "albumId": 4
     },
     {
       "id": 23,
-      "photo": "Album 4 Photo 5",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "FF XIV",
+      "location": "https://cdn.vox-cdn.com/thumbor/KUzdxHZYeDxbtAHF-_b88Yni350=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/16331977/vlcsnap_2019_06_10_21h47m23s252.png",
       "albumId": 4
     },
     {
       "id": 24,
-      "pohoto": "Album 4 Photo 6",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "FF XV",
+      "location": "https://gamespot1.cbsistatic.com/uploads/scale_medium/536/5360430/3170692-ffxv.jpg",
       "albumId": 4
     },
     {
       "id": 25,
-      "photo": "Album 5 Photo 1",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "It's a-me Mario!",
+      "location": "https://http2.mlstatic.com/super-mario-world-otros-10-juegos-snes-para-android--D_NQ_NP_734747-MLM31889150725_082019-F.jpg",
       "albumId": 5
     },
     {
       "id": 26,
-      "photo": "Album 5 Photo 2",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Hello",
+      "location": "https://mmj-live.s3-accelerate.amazonaws.com/assets/cover_image/64119af7-7809-11e9-99f7-064f3e9f608e.jpeg?cb=20190516203534",
       "albumId": 5
     },
     {
       "id": 27,
-      "photo": "Album 5 Photo 3",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Wa-hoo!",
+      "location": "https://cdn.vox-cdn.com/thumbor/atVk5HZtBsyhKr7CbHu9ewAf0pg=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/16351994/Screen_Shot_2019_06_18_at_3.32.51_PM.png",
       "albumId": 5
     },
     {
       "id": 28,
-      "photo": "Album 5 Photo 4",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Mario time!",
+      "location": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2129/files/2019/02/Mario.png",
       "albumId": 5
     },
     {
       "id": 29,
-      "photo": "Album 5 Photo 5",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Lucky!",
+      "location": "https://cdn.vox-cdn.com/thumbor/gad4HLSzLJarI6Y5PTGIrRKb42k=/0x839:1242x1667/1400x1400/filters:focal(0x839:1242x1667):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/50801673/super-mario-run-screenshot_1242.0.jpg",
       "albumId": 5
     },
     {
       "id": 30,
-      "pohoto": "Album 5 Photo 6",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Thanks for Playing",
+      "location": "https://i5.walmartimages.com/asr/fe8e5c13-c684-433e-85c0-8ccb95bccbd1_1.db3146ab4820039ce3a7fc3201c49b0e.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
       "albumId": 5
     },
     {
       "id": 31,
-      "photo": "Album 6 Photo 1",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Adventures of Link",
+      "location": "https://www.filmmusicsite.com/images/covers/large/26528.jpg",
       "albumId": 6
     },
     {
       "id": 32,
-      "photo": "Album 6 Photo 2",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Link to the Past",
+      "location": "https://giantbomb1.cbsistatic.com/uploads/scale_medium/8/82063/2831954-legend_of_zelda_3_-_snes_-_album_art.jpg",
       "albumId": 6
     },
     {
       "id": 33,
-      "photo": "Album 6 Photo 3",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "The Wind Waker",
+      "location": "https://ih1.redbubble.net/image.378593117.6922/poster,840x830,f8f8f8-pad,1000x1000,f8f8f8.u1.jpg",
       "albumId": 6
     },
     {
       "id": 34,
-      "photo": "Album 6 Photo 4",
-      "location": "https://images.pexels.com/photos/33267/roulette-roulette-wheel-ball-turn.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Ocarina of Time",
+      "location": "https://ih1.redbubble.net/image.781398929.6450/flat,550x550,075,f.u2.jpg",
       "albumId": 6
     },
     {
       "id": 35,
-      "photo": "Album 6 Photo 5",
-      "location": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Majora's Mask",
+      "location": "https://res.cloudinary.com/teepublic/image/private/s--waqfLqyO--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1446178556/production/designs/104411_0.jpg",
       "albumId": 6
     },
     {
       "id": 36,
-      "pohoto": "Album 6 Photo 6",
-      "location": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "photo": "Breath of the Wild",
+      "location": "https://gamespot1.cbsistatic.com/uploads/scale_medium/1197/11970954/3181241-ig-lozbreathofthewildrelease-20170112.jpg",
       "albumId": 6
     }
   ]
